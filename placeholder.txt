@@ -1,0 +1,9 @@
+This is a placeholder file. 
+
+You should replace the following image files with actual images:
+1. profile.jpg - Your professional headshot (square format works best)
+2. ebook-project.jpg - Screenshot of your E-book Webpage project
+3. youtube-summarizer.jpg - Screenshot of your YouTube Transcript Summarizer project
+4. project-rubric.jpg - Screenshot of your Project Rubric project
+
+Place all these image files in this 'images' folder.
